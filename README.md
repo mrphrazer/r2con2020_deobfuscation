@@ -2,7 +2,7 @@
 
 This repository contains slides, samples and code of the 2h code deobfuscation workshop at [r2con2020](https://rada.re/con/2020/). We use [`Miasm`](https://github.com/cea-sec/miasm) to automatically identify opaque predicates in the `X-Tunnel` APT128-malware using symbolic execution and SMT solving. Afterward, we automatically remove the opaque predicates via patching.
 
-The recording is available [here](https://youtu.be/_TsV0RXoIQE).
+The recording is available [here](https://youtu.be/b6udPT79itk).
 
 
 ## Cutter Notes
